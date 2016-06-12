@@ -1,0 +1,3 @@
+Ｒeadme
+結合lab10與助教給的socket example，即可完成此次assignment．
+當使用者按下按鈕後，便進入到result頁面，此時啟動thread，將result傳給server，即完成此作業要求．
